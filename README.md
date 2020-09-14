@@ -32,6 +32,10 @@ a separate file) with the nuclear coordinate as origin. `%run ray2pointscloud.py
 and select the associated DGRID WFN file. The output (`*.csv files) can be
 visualized with Avizo.
 
+### `equivalent_surfaces.py`
+Generate symmetry equivalent surfaces. Needs the cell parameters,
+symmetry operations, which is the asymmetric unit and their surfaces, nuclei coordinates, and filename.
+
 
 ## Dependencies
 
@@ -40,3 +44,4 @@ visualized with Avizo.
 * numpy
 * PyQt5 (not strictly necessary but better to have it)
 * h5py
+* sympy
