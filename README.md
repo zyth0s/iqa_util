@@ -2,12 +2,17 @@
 Some scripts to analyze IQA results. IQAJSON, we shall call it, is an approach to store
 all IQA information using JSON format.
 
+### `iqanalysis.py`
 Start IPython and execute `%run iqanalysis.py`. A window will open
 requesting you to select the IQAJSON file. Then, you will return back to the
 interpreter. A new variable `m` will be defined, that contains all extracted
 information. `m.TAB` will show you all accessible properties or methods.
 
-# Dependencies
+### `get_coords.py`
+`xyz = get_coords()` and select the DGRID WFN file.
+
+
+## Dependencies
 
 * json package
 * matplotlib
