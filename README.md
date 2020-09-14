@@ -22,6 +22,10 @@ Compare two surface files using one as a reference.
 Converts basin surface files between Promolden (modular) and
 ChemInt format.
 
+### `surf_resolution.py`
+Finds the angular resolution of a given surface file. Start IPython,
+`%run surf_resolution.py` and select the desired surface file.
+
 
 ## Dependencies
 
