@@ -36,6 +36,9 @@ visualized with Avizo.
 Generate symmetry equivalent surfaces. Needs the cell parameters,
 symmetry operations, which is the asymmetric unit and their surfaces, nuclei coordinates, and filename.
 
+### `nearest_neighbors.py`
+Analyze interatomic distances.
+
 
 ## Dependencies
 
