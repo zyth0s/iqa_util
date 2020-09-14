@@ -45,6 +45,9 @@ Generate ChemInt input from a template.
 ### `required_resources.jl`
 Estimate required resources to do IQA decomposition.
 
+### `plot_aom.py`
+Plot Atomic Overlap Matrix (AOM) as a 2D image.
+
 ## Dependencies
 
 * json package
