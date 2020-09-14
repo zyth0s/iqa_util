@@ -51,6 +51,8 @@ Plot Atomic Overlap Matrix (AOM) as a 2D image.
 ### `compare2RD.py`
 Compare the second order reduced density  of Promolden and ChemInt.
 
+### `convert2RD.py`
+Convert 2RDM from Promolden to ChemInt format
 
 ## Dependencies
 
