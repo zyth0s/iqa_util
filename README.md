@@ -26,6 +26,12 @@ ChemInt format.
 Finds the angular resolution of a given surface file. Start IPython,
 `%run surf_resolution.py` and select the desired surface file.
 
+### `ray2pointscloud.py`
+Convert each surface file to a point cloud of surface points (each basin will have
+a separate file) with the nuclear coordinate as origin. `%run ray2pointscloud.py`
+and select the associated DGRID WFN file. The output (`*.csv files) can be
+visualized with Avizo.
+
 
 ## Dependencies
 
