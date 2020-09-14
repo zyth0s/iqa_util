@@ -18,6 +18,10 @@ information. `m.TAB` will show you all accessible properties or methods.
 
 Compare two surface files using one as a reference.
 
+### `surfconv.py`
+Converts basin surface files between Promolden (modular) and
+ChemInt format.
+
 
 ## Dependencies
 
