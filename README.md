@@ -39,6 +39,8 @@ symmetry operations, which is the asymmetric unit and their surfaces, nuclei coo
 ### `nearest_neighbors.py`
 Analyze interatomic distances.
 
+### `gen_chmnt_input.py
+Generate ChemInt input from a template.
 
 ## Dependencies
 
